@@ -1,4 +1,4 @@
-var socket = io('http://localhost:3000/');
+var socket = io('https://chatproxd.up.railway.app/');
 
 let message = document.getElementById('message');
 let username = document.getElementById('username');
