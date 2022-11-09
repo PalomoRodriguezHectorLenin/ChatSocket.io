@@ -21,5 +21,8 @@
     "url": "https://github.com/PalomoRodriguezHectorLenin/ChatSocket.io/issues"
   },
   "homepage": "https://github.com/PalomoRodriguezHectorLenin/ChatSocket.io#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
 }
