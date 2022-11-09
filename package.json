@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "socket.io": "^4.5.3"
+  },
+  "name": "chat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PalomoRodriguezHectorLenin/ChatSocket.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PalomoRodriguezHectorLenin/ChatSocket.io/issues"
+  },
+  "homepage": "https://github.com/PalomoRodriguezHectorLenin/ChatSocket.io#readme",
+  "description": ""
+}
